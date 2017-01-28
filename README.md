@@ -1,2 +1,4 @@
 # Hello-world
-Just repository
+
+Hi, people!
+Artem here, I come with peace.
